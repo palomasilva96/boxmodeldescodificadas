@@ -1,0 +1,32 @@
+div {
+    height: 400px;
+    width: 500px;
+
+    border-width: 30px;
+    border-style: solid;
+    border-color: rgb(136, 43, 164);
+    border-radius: 0px;
+
+    background-image: url(https://899028l.ha.azioncdn.net/img/2022/05/blog/30484/flor-de-lotus-prego-e-martelo-artigo.jpg);
+    text-align: center;
+    box-shadow: inset 10px 10px 24px 6px red;
+    background-size: cover;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+    outline-width: 20px;
+    outline-style:double;
+    outline-color: rgb(164,43,118);
+
+    margin: auto;
+    margin-top: 100px;
+
+    padding-top: 100px;
+    font-style: italic;
+    font-size: 50px;
+    color: yellow;
+    font-weight: bold;
+}
